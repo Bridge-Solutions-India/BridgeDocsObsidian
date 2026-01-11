@@ -1,0 +1,17 @@
+filters:
+  and:
+    - note["base"] == link("Meetings Calender.base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+  Date:
+    displayName: Date
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - Date

@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "6a1c799c201254f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "45a88637a9b877ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd890cea4c6f3684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Website Discussion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea7bdb59cc0d8706",
+    "type": "split",
+    "children": [
+      {
+        "id": "23929d5340adc830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f149623d6bdfce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da38df3fe263cb0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1838e8f8cfc46878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00484bfd9e3f7869",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ce968d0fd2abea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83542f1a23217c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Website Discussion"
+            }
+          },
+          {
+            "id": "baa5df5d45eab5de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Website Discussion"
+            }
+          },
+          {
+            "id": "5b4e125ae57141aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f199d512b5693435",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ba7ea1c57f3ee6ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Website Discussion"
+            }
+          },
+          {
+            "id": "9fa24050bc9a4b09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-to-notion:Share to notion": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dd890cea4c6f3684",
+  "lastOpenFiles": [
+    "Notion/Events/Meetings Calender/Meetings Calender.base",
+    "Notion/Events/Meetings Calender/Website Discussion.md",
+    "Notion/Events/Events.md",
+    "Notion/Events/Meetings Calender/Design Walkthrough & Lead Generation Strategies.md",
+    "Notion/New Year Meet/New Year Meet.md",
+    "Notion/Market Research.md",
+    "BRIDGE Solutions - Services Overview.png",
+    "Services Overview (1).png",
+    "image 5.png",
+    "image 4.png",
+    "image 3.png",
+    "image 2.png",
+    "image 1.png",
+    "image.png",
+    "Notion/Development/Notice Board.md",
+    "Notion/Development/Documentation/Technology Documentation/Technology Documentation.md",
+    "Notion/Development/Documentation/Project Documentation/Project Documentation.md",
+    "Notion/New Year Meet/BRIDGE Solutions - Services Overview.md",
+    "Notion/New Year Meet",
+    "Notion/Events/Meetings Calender/Meetings Calender Daily meeting @December 23, 2025 2100 (GMT+530) → 2145.md",
+    "Notion/Events/Meetings Calender/Developer meeting.md",
+    "Notion/Events/Meetings Calender/Website Design.md",
+    "Notion/Events/Meetings Calender/CEO piranthanaal.md",
+    "Notion/Events/Meetings Calender/Domain, Legality, Develop.md",
+    "Notion/Events/Meetings Calender/Day 1.md",
+    "Notion/Events/Meetings Calender/Services Overview (1).md",
+    "Notion/Events/Meetings Calender",
+    "Notion/Events",
+    "Notion/Development/Development.md",
+    "Notion/Development/Documentation/Documentation.md",
+    "Notion/Development/Documentation/Project Documentation/BridgeBackendService/BridgeBackendService.md",
+    "Notion/Development/Documentation/Project Documentation/BridgeBackendService/API Documentation.md",
+    "Notion/Development/Documentation/Project Documentation/BridgeBackendService/Project Setup.md",
+    "Notion/Development/Documentation/Project Documentation/BridgeBackendService",
+    "Notion/Development/Documentation/Project Documentation",
+    "Notion/Development/Documentation/Technology Documentation/Dual Write of Data to Google Sheets along with the DB with the Google sheets as Sink.md",
+    "Notion/Development/Documentation/Technology Documentation/Jest Testing Documentation/Jest Testing Documentation.md",
+    "Notion/Development/Documentation/Technology Documentation/Jest Testing Documentation/Testing Best Practices.md",
+    "Notion/Development/Documentation/Technology Documentation/Jest Testing Documentation",
+    "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
+    "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation/Models",
+    "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation",
+    "Notion/Development/Documentation/Technology Documentation"
+  ]
+}
