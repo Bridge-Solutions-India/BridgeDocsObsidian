@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa951b6bc0c37732",
+        "id": "ea3c1754bdca52cc",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3a3891d1e4f13c",
+            "id": "5608587741384f9a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -195,7 +191,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8b3a3891d1e4f13c",
+  "active": "5608587741384f9a",
   "lastOpenFiles": [
     "README.md",
     "Bridge Solutions Links.md",
