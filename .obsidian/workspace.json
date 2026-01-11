@@ -194,11 +194,13 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-to-notion:Share to notion": false,
       "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "fit:Sync to GitHub": false
     }
   },
   "active": "dd890cea4c6f3684",
   "lastOpenFiles": [
+    "README.md",
     "Notion/Events/Meetings Calender/Meetings Calender.base",
     "Notion/Events/Meetings Calender/Website Discussion.md",
     "Notion/Events/Events.md",
