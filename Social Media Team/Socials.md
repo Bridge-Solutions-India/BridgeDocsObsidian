@@ -1,7 +1,7 @@
 
 Instagram:- https://www.instagram.com/bridgesolutions.in?igsh=OG1mbmlhdjRxem05
 
-Twitter:- https://x.com/BridgeSolutions
+Twitter:- https://x.com/BridgeSolution_
 
 LinkedIn:- https://www.linkedin.com/company/bridge-solutionsagency/?viewAsMember=true
 
