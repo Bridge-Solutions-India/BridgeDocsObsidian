@@ -5,6 +5,7 @@ step one:
 - install obsidian
 - clone this repo to a specific folder
 - import this folder as vault in obsidian
+- settings >  Files and Links > turn on automatically update internal links
 - enable community plugins in settings 
 - install GIT plugin from the community plugins page - obsidian://show-plugin?id=obsidian-git
 - enable the plugins
