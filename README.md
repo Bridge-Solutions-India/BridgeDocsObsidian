@@ -1,4 +1,4 @@
-# bridge_docs_obsidian
+# BridgeDocsObsidian
 local docs in a git repo for collaborations
 
 step one: 
