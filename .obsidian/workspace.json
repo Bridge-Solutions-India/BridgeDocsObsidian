@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Others.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Others"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Others.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Others"
+              "title": "Outline of README"
             }
           },
           {
@@ -197,6 +197,9 @@
   },
   "active": "8b3a3891d1e4f13c",
   "lastOpenFiles": [
+    "Bridge Solutions Links.md",
+    "Bridge Solutions Notice Board.md",
+    "Others/Others.md",
     "Social Media Team/Social Media Team.md",
     "Site Engine Optimization Team/Site Engine Optimization Team.md",
     "Design Team/Design Team.md",
@@ -205,7 +208,6 @@
     "Lead Generation Team/Lead Generation Team.md",
     "Design Team",
     "Development Team/Development Team.md",
-    "Others/Others.md",
     "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
     "Development Team/Technology Documentation/Jest Testing Documentation/🎭 Mockito.md",
     "Development Team/Technology Documentation/Jest Testing Documentation/Jest Testing Documentation.md",
@@ -235,8 +237,6 @@
     "Assests/images/image.png",
     "Development Team/Notice Board.md",
     "Notion/Development/Documentation/Documentation.md",
-    "Development Team/Project Documentation/Project Documentation.md",
-    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "Notion/Development/Documentation/Project Documentation/API Documentation main/Untitled.canvas",
     "Development Team/Project Documentation/BridgeBackendService/API Documentation",
     "Development Team/Project Documentation/BridgeBackendService/API Documentation",
