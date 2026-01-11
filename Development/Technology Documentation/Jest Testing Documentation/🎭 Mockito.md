@@ -135,7 +135,7 @@ const fakeCache =newMap();
 
 ---
 
-# [🧪 Mocking in Unit Tests (Jest)](/2d9118601eca80208d24fcfee60320a1)
+# 🧪 Mocking in Unit Tests (Jest)
 
 ## Example: Service With DB Dependency
 

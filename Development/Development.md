@@ -14,3 +14,7 @@ Page: [[Project Documentation]]
 ==`Technology Documentation`==
 	Give head's up about `technologies` used in the project
 Page: [[Technology Documentation]]
+
+==`Notice Board`==
+	Links to common tools and meeting for dev team
+Page: [[Notice Board]]
