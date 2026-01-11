@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "file": "Notion/Market Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Website Discussion"
+              "title": "Market Research"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "file": "Notion/Market Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Website Discussion"
+              "title": "Backlinks for Market Research"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "file": "Notion/Market Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Website Discussion"
+              "title": "Outgoing links from Market Research"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Events/Meetings Calender/Website Discussion.md",
+                "file": "Notion/Market Research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Website Discussion"
+              "title": "Outline of Market Research"
             }
           },
           {
@@ -200,37 +200,38 @@
   },
   "active": "dd890cea4c6f3684",
   "lastOpenFiles": [
-    "README.md",
+    "Notion/Development/Notice Board.md",
+    "Notion/Development/Documentation/Project Documentation/Project Documentation.md",
+    "Notion/Development/Documentation/Technology Documentation/Technology Documentation.md",
+    "Notion/Development/Documentation/Documentation.md",
+    "Notion/Development/Development.md",
     "Notion/Events/Meetings Calender/Meetings Calender.base",
-    "Notion/Events/Meetings Calender/Website Discussion.md",
-    "Notion/Events/Events.md",
+    "Notion/Events/Meetings Calender/Domain, Legality, Develop.md",
+    "Notion/Events/Meetings Calender/Developer meeting.md",
     "Notion/Events/Meetings Calender/Design Walkthrough & Lead Generation Strategies.md",
+    "Notion/Events/Meetings Calender/Day 1.md",
+    "Notion/Events/Meetings Calender/CEO piranthanaal.md",
+    "images/image.png",
+    "Notion/Events/Meetings Calender/Website Discussion.md",
+    "images",
+    "README.md",
+    "Notion/Events/Events.md",
     "Notion/New Year Meet/New Year Meet.md",
     "Notion/Market Research.md",
     "BRIDGE Solutions - Services Overview.png",
     "Services Overview (1).png",
-    "image 5.png",
-    "image 4.png",
-    "image 3.png",
-    "image 2.png",
-    "image 1.png",
-    "image.png",
-    "Notion/Development/Notice Board.md",
-    "Notion/Development/Documentation/Technology Documentation/Technology Documentation.md",
-    "Notion/Development/Documentation/Project Documentation/Project Documentation.md",
+    "images/image 5.png",
+    "images/image 4.png",
+    "images/image 3.png",
+    "images/image 2.png",
+    "images/image 1.png",
     "Notion/New Year Meet/BRIDGE Solutions - Services Overview.md",
     "Notion/New Year Meet",
     "Notion/Events/Meetings Calender/Meetings Calender Daily meeting @December 23, 2025 2100 (GMT+530) → 2145.md",
-    "Notion/Events/Meetings Calender/Developer meeting.md",
     "Notion/Events/Meetings Calender/Website Design.md",
-    "Notion/Events/Meetings Calender/CEO piranthanaal.md",
-    "Notion/Events/Meetings Calender/Domain, Legality, Develop.md",
-    "Notion/Events/Meetings Calender/Day 1.md",
     "Notion/Events/Meetings Calender/Services Overview (1).md",
     "Notion/Events/Meetings Calender",
     "Notion/Events",
-    "Notion/Development/Development.md",
-    "Notion/Development/Documentation/Documentation.md",
     "Notion/Development/Documentation/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "Notion/Development/Documentation/Project Documentation/BridgeBackendService/API Documentation.md",
     "Notion/Development/Documentation/Project Documentation/BridgeBackendService/Project Setup.md",
@@ -240,9 +241,7 @@
     "Notion/Development/Documentation/Technology Documentation/Jest Testing Documentation/Jest Testing Documentation.md",
     "Notion/Development/Documentation/Technology Documentation/Jest Testing Documentation/Testing Best Practices.md",
     "Notion/Development/Documentation/Technology Documentation/Jest Testing Documentation",
-    "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
     "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation/Models",
-    "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation",
-    "Notion/Development/Documentation/Technology Documentation"
+    "Notion/Development/Documentation/Technology Documentation/Express Application Folder Structure Documentation"
   ]
 }

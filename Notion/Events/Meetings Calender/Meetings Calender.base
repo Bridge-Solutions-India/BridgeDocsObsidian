@@ -15,3 +15,6 @@ views:
       - file.name
       - Tags
       - Date
+    sort:
+      - property: Date
+        direction: ASC
