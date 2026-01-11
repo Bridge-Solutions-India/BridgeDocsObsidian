@@ -1,0 +1,2 @@
+	Hey Social Stars! 🌟  
+	Welcome to the Social Media hub. This is your go-to space for content ideas, brand voice, platform guidelines, and campaign workflows. Explore, create, engage, and help us build meaningful connections with our audience—one post at a time.

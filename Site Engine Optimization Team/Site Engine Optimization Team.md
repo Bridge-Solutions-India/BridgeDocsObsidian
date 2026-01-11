@@ -1,0 +1,2 @@
+	Hello SEO Team! 🚀  
+	Welcome to the SEO hub. This is your go-to place for keyword strategies, on-page and technical SEO practices, content optimization guidelines, and performance tracking. Explore, experiment, and help drive sustainable organic growth.

@@ -1,0 +1,2 @@
+	Hello Designers! 🎨  
+	Welcome to the Design Team hub. This space is built to inspire creativity, encourage consistency, and support collaboration. Explore our design systems, processes, and best practices to turn ideas into thoughtful, impactful experiences.
