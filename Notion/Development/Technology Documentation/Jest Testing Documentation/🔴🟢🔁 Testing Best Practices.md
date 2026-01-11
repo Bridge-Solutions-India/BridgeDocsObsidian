@@ -2,7 +2,7 @@
 
 ---
 
-## 🔴🟢🔁 TDD Core Cycle (Always Follow This) 
+## TDD Core Cycle (Always Follow This) 
 
 TDD is the approach we gonna follow in our Backend projects
 
