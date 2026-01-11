@@ -11,20 +11,14 @@
             "id": "dd890cea4c6f3684",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "tasks manager.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Bridge Solutions Links.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "tasks manager"
+              "icon": "lucide-file",
+              "title": "Bridge Solutions Links"
             }
           }
         ]
@@ -192,23 +186,28 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-kanban:Create new board": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "dd890cea4c6f3684",
   "lastOpenFiles": [
-    "Development Team/Technology Documentation/Jest Testing Documentation/🎭 Mockito.md",
+    "Untitled.base",
+    "Bridge Solutions Links.md",
+    "Development Team/Development Team.md",
+    "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
+    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
+    "Design Team/Design Team.md",
     "tasks manager.md",
+    "Development Team/Technology Documentation/Jest Testing Documentation/🎭 Mockito.md",
     "conflict-files-obsidian-git.md",
     "Development Team/Project Documentation/Project Documentation.md",
-    "Development Team/Development Team.md",
     "README.md",
     "Social Media Team/Social Media Team.md",
     "Social Media Team",
@@ -233,13 +232,7 @@
     "Lead Generation Team/Lead Generation Team.md",
     "Lead Generation Team",
     "Development Team/Project Documentation/BridgeBackendService/API Documentation/Route-bridgecontactform.md",
-    "Development Team/Project Documentation/BridgeBackendService/API Documentation/API Documentation.md",
-    "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Models/Mysql.md",
-    "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Models/Models.md",
-    "Development Team/Technology Documentation/Jest Testing Documentation/🧪 Unit Testing.md",
-    "Development Team/Technology Documentation/Jest Testing Documentation/🔴🟢🔁 Testing Best Practices.md",
     "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Models",
-    "Development Team/Project Documentation/BridgeBackendService/API Documentation",
     "Assests/images/image.png",
     "Assests/images/image 5.png",
     "Assests/images/image 4.png",
