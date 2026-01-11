@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bridge Solutions Links.md",
+                "file": "Social Media Team/Socials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bridge Solutions Links"
+              "title": "Socials"
             }
           }
         ]
@@ -31,17 +31,10 @@
             "id": "bd965a0e736a21f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -744.1727343750008,
-                  "y": 498.7996874999998,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -220,12 +213,13 @@
   },
   "active": "dd890cea4c6f3684",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Bridge Solutions Links.md",
+    "Social Media Team/Socials.md",
+    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
+    "Untitled.canvas",
     "Untitled.base",
     "Development Team/Development Team.md",
     "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
-    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "Design Team/Design Team.md",
     "tasks manager.md",
     "Development Team/Technology Documentation/Jest Testing Documentation/🎭 Mockito.md",
