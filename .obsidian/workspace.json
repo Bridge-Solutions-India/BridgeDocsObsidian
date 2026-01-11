@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Market Research.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Market Research"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Market Research.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Market Research"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Market Research.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Market Research"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Market Research.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Market Research"
+              "title": "Outline of README"
             }
           },
           {
@@ -198,8 +198,9 @@
       "fit:Sync to GitHub": false
     }
   },
-  "active": "36f149623d6bdfce",
+  "active": "dd890cea4c6f3684",
   "lastOpenFiles": [
+    "Notion/Market Research.md",
     "Notion/Development/Notice Board.md",
     "Notion/Development/Documentation/Project Documentation/Project Documentation.md",
     "Notion/Development/Documentation/Technology Documentation/Technology Documentation.md",
@@ -217,7 +218,6 @@
     "README.md",
     "Notion/Events/Events.md",
     "Notion/New Year Meet/New Year Meet.md",
-    "Notion/Market Research.md",
     "BRIDGE Solutions - Services Overview.png",
     "images/Services Overview (1).png",
     "images/image 5.png",
