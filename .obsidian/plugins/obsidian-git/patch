@@ -1,0 +1,268 @@
+diff --git a/.obsidian/workspace.json b/.obsidian/workspace.json
+index 000000..000000 100644
+--- a/.obsidian/workspace.json
++++ b/.obsidian/workspace.json
+@@ -1,0 +1,262 @@
++{
++  "main": {
++    "id": "6a1c799c201254f6",
++    "type": "split",
++    "children": [
++      {
++        "id": "a2bc395b9478b2dc",
++        "type": "tabs",
++        "children": [
++          {
++            "id": "32d3bee2ef56673b",
++            "type": "leaf",
++            "state": {
++              "type": "markdown",
++              "state": {
++                "file": "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
++                "mode": "source",
++                "source": false
++              },
++              "icon": "lucide-file",
++              "title": "BridgeFrontendService"
++            }
++          },
++          {
++            "id": "fe63d21a3bf37849",
++            "type": "leaf",
++            "state": {
++              "type": "split-diff-view",
++              "state": {
++                "aFile": "Bridge Solutions Links.md",
++                "bFile": "Bridge Solutions Links.md",
++                "aRef": "HEAD",
++                "bRef": ""
++              },
++              "icon": "diff",
++              "title": "Diff: Bridge Solutions Links  (Index)"
++            }
++          }
++        ],
++        "currentTab": 1
++      }
++    ],
++    "direction": "vertical"
++  },
++  "left": {
++    "id": "ea7bdb59cc0d8706",
++    "type": "split",
++    "children": [
++      {
++        "id": "23929d5340adc830",
++        "type": "tabs",
++        "children": [
++          {
++            "id": "36f149623d6bdfce",
++            "type": "leaf",
++            "state": {
++              "type": "file-explorer",
++              "state": {
++                "sortOrder": "alphabetical",
++                "autoReveal": false
++              },
++              "icon": "lucide-folder-closed",
++              "title": "Files"
++            }
++          },
++          {
++            "id": "da38df3fe263cb0d",
++            "type": "leaf",
++            "state": {
++              "type": "search",
++              "state": {
++                "query": "",
++                "matchingCase": false,
++                "explainSearch": false,
++                "collapseAll": false,
++                "extraContext": false,
++                "sortOrder": "alphabetical"
++              },
++              "icon": "lucide-search",
++              "title": "Search"
++            }
++          },
++          {
++            "id": "1838e8f8cfc46878",
++            "type": "leaf",
++            "state": {
++              "type": "bookmarks",
++              "state": {},
++              "icon": "lucide-bookmark",
++              "title": "Bookmarks"
++            }
++          }
++        ]
++      }
++    ],
++    "direction": "horizontal",
++    "width": 300
++  },
++  "right": {
++    "id": "00484bfd9e3f7869",
++    "type": "split",
++    "children": [
++      {
++        "id": "04ce968d0fd2abea",
++        "type": "tabs",
++        "children": [
++          {
++            "id": "83542f1a23217c41",
++            "type": "leaf",
++            "state": {
++              "type": "backlink",
++              "state": {
++                "file": "README.md",
++                "collapseAll": false,
++                "extraContext": false,
++                "sortOrder": "alphabetical",
++                "showSearch": false,
++                "searchQuery": "",
++                "backlinkCollapsed": false,
++                "unlinkedCollapsed": true
++              },
++              "icon": "links-coming-in",
++              "title": "Backlinks for README"
++            }
++          },
++          {
++            "id": "baa5df5d45eab5de",
++            "type": "leaf",
++            "state": {
++              "type": "outgoing-link",
++              "state": {
++                "file": "README.md",
++                "linksCollapsed": false,
++                "unlinkedCollapsed": true
++              },
++              "icon": "links-going-out",
++              "title": "Outgoing links from README"
++            }
++          },
++          {
++            "id": "5b4e125ae57141aa",
++            "type": "leaf",
++            "state": {
++              "type": "tag",
++              "state": {
++                "sortOrder": "frequency",
++                "useHierarchy": true,
++                "showSearch": false,
++                "searchQuery": ""
++              },
++              "icon": "lucide-tags",
++              "title": "Tags"
++            }
++          },
++          {
++            "id": "f199d512b5693435",
++            "type": "leaf",
++            "state": {
++              "type": "all-properties",
++              "state": {
++                "sortOrder": "frequency",
++                "showSearch": false,
++                "searchQuery": ""
++              },
++              "icon": "lucide-archive",
++              "title": "All properties"
++            }
++          },
++          {
++            "id": "ba7ea1c57f3ee6ec",
++            "type": "leaf",
++            "state": {
++              "type": "outline",
++              "state": {
++                "file": "README.md",
++                "followCursor": false,
++                "showSearch": false,
++                "searchQuery": ""
++              },
++              "icon": "lucide-list",
++              "title": "Outline of README"
++            }
++          },
++          {
++            "id": "9fa24050bc9a4b09",
++            "type": "leaf",
++            "state": {
++              "type": "git-view",
++              "state": {},
++              "icon": "git-pull-request",
++              "title": "Source Control"
++            }
++          }
++        ],
++        "currentTab": 5
++      }
++    ],
++    "direction": "horizontal",
++    "width": 300
++  },
++  "left-ribbon": {
++    "hiddenItems": {
++      "switcher:Open quick switcher": false,
++      "graph:Open graph view": false,
++      "canvas:Create new canvas": false,
++      "daily-notes:Open today's daily note": false,
++      "templates:Insert template": false,
++      "command-palette:Open command palette": false,
++      "bases:Create new base": false,
++      "obsidian-git:Open Git source control": false,
++      "obsidian-importer:Open Importer": false
++    }
++  },
++  "active": "fe63d21a3bf37849",
++  "lastOpenFiles": [
++    "conflict-files-obsidian-git.md",
++    "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
++    "tasks manager.md",
++    "Social Media Team/Socials.md",
++    "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
++    "Development Team/Technology Documentation/React Typescript Application Folder Structure/React Typescript Application Folder Structure.md",
++    "Development Team/Technology Documentation/React Typescript Application Folder Structure",
++    "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
++    "Development Team/Project Documentation/BridgeBackendService/Commands used.md",
++    "Development Team/Technology Documentation/Technology Documentation.md",
++    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
++    "Development Team/Project Documentation/BridgeBackendService/Project Setup.md",
++    "Development Team/Project Documentation/BridgeFrontendService",
++    "Development Team/Notice Board.md",
++    "Lead Generation Team/Lead Generation Team.md",
++    "Bridge Solutions Links.md",
++    "Development Team/Project Documentation/Project Documentation.md",
++    "Development Team/Project Documentation/BridgeFrontendApplication.md",
++    "README.md",
++    "Bridge Solutions Notice Board.md",
++    "Others/Others.md",
++    "Social Media Team/Social Media Team.md",
++    "Site Engine Optimization Team/Site Engine Optimization Team.md",
++    "Design Team/Design Team.md",
++    "Site Engine Optimization Team",
++    "Social Media Team",
++    "Design Team",
++    "Development Team/Development Team.md",
++    "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
++    "Development Team/Technology Documentation/Jest Testing Documentation/🎭 Mockito.md",
++    "Development Team/Technology Documentation/Jest Testing Documentation/Jest Testing Documentation.md",
++    "Assests/images/BRIDGE Solutions - Services Overview.png",
++    "Assests/images/Services Overview (1).png",
++    "Lead Generation Team",
++    "Others/Events/Meetings Calender/Meetings Calender.base",
++    "Assests",
++    "Assests/images/image 5.png",
++    "Assests/images/image 4.png",
++    "Assests/images/image 3.png",
++    "Assests/images/image 2.png",
++    "Assests/images/image 1.png",
++    "Assests/images/image.png",
++    "Notion/Development/Documentation/Project Documentation/API Documentation main/Untitled.canvas",
++    "Development Team/Project Documentation/BridgeBackendService/API Documentation",
++    "Development Team/Project Documentation/BridgeBackendService/API Documentation"
++  ]
++}
+\ No newline at end of file
