@@ -1,6 +1,10 @@
 ---
 
 ---
+### Basic requirements
+1. npm
+2. Express JS
+3. Postgres SQL Database
 ### Step by step process
 1. clone the project  https://github.com/Bridge-Solutions-India/ContactFormBackendService 
 2. create .env.development file
