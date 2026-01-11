@@ -22,6 +22,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "f135e827c87b2388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd965a0e736a21f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -744.1727343750008,
+                  "y": 498.7996874999998,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,14 +215,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "dd890cea4c6f3684",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Untitled.canvas",
     "Bridge Solutions Links.md",
+    "Untitled.base",
     "Development Team/Development Team.md",
     "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
     "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
