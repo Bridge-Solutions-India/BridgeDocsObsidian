@@ -11,13 +11,33 @@
             "id": "80d4a125ffb56993",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Index)"
+            }
+          },
+          {
+            "id": "7f8bd0b0da0df7ae",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da38df3fe263cb0d",
+  "active": "7f8bd0b0da0df7ae",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Bridge Solutions Links.md",
     "Social Media Team/Socials.md",
@@ -201,7 +222,6 @@
     "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "tasks manager.md",
     "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
-    "conflict-files-obsidian-git.md",
     "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
     "Development Team/Technology Documentation/React Typescript Application Folder Structure/React Typescript Application Folder Structure.md",
     "Development Team/Technology Documentation/React Typescript Application Folder Structure",
