@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "03e8f281926b8806",
+        "id": "5615f6deacb63b37",
         "type": "tabs",
         "children": [
           {
-            "id": "80d4a125ffb56993",
+            "id": "0f51041feafa6b6d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Index)"
-            }
-          },
-          {
-            "id": "7f8bd0b0da0df7ae",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Commands used"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f8bd0b0da0df7ae",
+  "active": "0f51041feafa6b6d",
   "lastOpenFiles": [
+    "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Bridge Solutions Links.md",
@@ -221,7 +205,6 @@
     "Lead Generation Team/Market Research.md",
     "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "tasks manager.md",
-    "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
     "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
     "Development Team/Technology Documentation/React Typescript Application Folder Structure/React Typescript Application Folder Structure.md",
     "Development Team/Technology Documentation/React Typescript Application Folder Structure",

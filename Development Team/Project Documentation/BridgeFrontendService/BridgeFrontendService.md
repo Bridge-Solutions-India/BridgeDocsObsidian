@@ -2,7 +2,7 @@
 
 ### Technology: 
 	1. React JS
-	2. TypeScript
+	2. JavaScript
 	3. TailwindCSS
 	4. Material UI React Component Liberary
 
