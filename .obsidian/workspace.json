@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ead5b654745894a",
+        "id": "03e8f281926b8806",
         "type": "tabs",
         "children": [
           {
-            "id": "2bc38afa44b1c48f",
+            "id": "80d4a125ffb56993",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bc38afa44b1c48f",
+  "active": "da38df3fe263cb0d",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "Bridge Solutions Links.md",
     "Social Media Team/Socials.md",
     "Lead Generation Team/Market Research.md",
@@ -223,7 +225,6 @@
     "Design Team",
     "Development Team/Development Team.md",
     "Development Team/Technology Documentation/Express Application Folder Structure Documentation/Express Application Folder Structure Documentation.md",
-    "Development Team/Technology Documentation/Jest Testing Documentation/🎭 Mockito.md",
     "Assests/images/BRIDGE Solutions - Services Overview.png",
     "Assests/images/Services Overview (1).png",
     "Lead Generation Team",
