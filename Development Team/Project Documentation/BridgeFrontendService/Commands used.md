@@ -12,9 +12,9 @@ npx tailwindcss init -p
 ```
 2. shadcn UI library
 ```
-
+npm install shadcn-ui
+npx shadcn-ui init
 ```
-
 
 **run react development app**
 ```

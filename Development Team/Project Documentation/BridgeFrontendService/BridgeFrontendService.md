@@ -5,9 +5,8 @@
 	2. JavaScript
 	3. JavaScript XML
 	4. TailwindCSS
-	5. Material UI React Component Liberary
-
-Material UI: [Link](https://mui.com/material-ui/getting-started/)
+	5. Shadcn UI component library
+Material UI: [Link](https://ui.shadcn.com/)
 ### Documentation
 [[Project Setup]]
 
