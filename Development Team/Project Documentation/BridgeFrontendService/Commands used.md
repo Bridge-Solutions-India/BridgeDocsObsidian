@@ -1,11 +1,15 @@
 
 **new react application in current folder**
 ```
-npx create-react-app my-react-app .
+npm create vite@latest .
 ```
+
+**Dependencies**
+1. tailwindcss
+	2.
 
 **run react development app**
 ```
-npm run dev
+npm run
 ```
 
