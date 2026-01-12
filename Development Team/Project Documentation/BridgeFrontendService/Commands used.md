@@ -6,7 +6,15 @@ npm create vite@latest .
 
 **Dependencies**
 1. tailwindcss
-	2.
+```
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+2. shadcn UI library
+```
+
+```
+
 
 **run react development app**
 ```
