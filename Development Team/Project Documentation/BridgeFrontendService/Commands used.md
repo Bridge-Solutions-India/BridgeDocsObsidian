@@ -13,9 +13,12 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
-3. vite reat
+3. vite react plugin
+```
+npm install -D @vitejs/plugin-react
+```
 **run react development app**
 ```
-npm run
+npm run dev
 ```
 
