@@ -4,12 +4,11 @@ npm create vite@latest .
 ```
 
 **Dependencies**
-1. tailwindcss
+1. material UI components library
 ```
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+npm install @mui/material @emotion/react @emotion/styled
 ```
-2. shadcn UI library
+2. Tailwindcss
 ```
 npm install shadcn-ui
 npx shadcn-ui init
