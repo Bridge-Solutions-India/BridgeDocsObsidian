@@ -10,10 +10,10 @@ npm install @mui/material @emotion/react @emotion/styled
 ```
 2. Tailwindcss
 ```
-npm install shadcn-ui
-npx shadcn-ui init
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
-
+3. vite reat
 **run react development app**
 ```
 npm run
