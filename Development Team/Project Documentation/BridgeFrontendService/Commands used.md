@@ -1,4 +1,3 @@
-
 **new react application in current folder**
 ```
 npm create vite@latest .

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
+                "file": "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BridgeFrontendService"
+              "title": "Commands used"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "0f51041feafa6b6d",
   "lastOpenFiles": [
-    "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
     "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
+    "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Bridge Solutions Links.md",
