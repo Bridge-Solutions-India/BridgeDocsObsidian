@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5615f6deacb63b37",
+        "id": "003b258dbdcfbfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f51041feafa6b6d",
+            "id": "0d0e74a08a2e9d87",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Social Media Team/Socials.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Socials"
             }
           }
         ]
@@ -197,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f51041feafa6b6d",
+  "active": "0d0e74a08a2e9d87",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
     "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
     "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
     "conflict-files-obsidian-git.md",
-    "Untitled Kanban.md",
     "Bridge Solutions Links.md",
     "Social Media Team/Socials.md",
     "Lead Generation Team/Market Research.md",
