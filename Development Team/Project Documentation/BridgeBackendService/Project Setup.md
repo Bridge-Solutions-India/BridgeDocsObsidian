@@ -11,3 +11,6 @@
 3. copy the contents of ./sample/.env.sample
 4. update all the required fields (clarify with the dev team / admin)
 5. your project is ready for action
+
+### Best practices
+- Add swagger documentation for each api route
