@@ -3,7 +3,7 @@
 - A **“Schedule a Meeting”** button is placed on the homepage, redirecting users to a Calendly booking page.  
 - Once a meeting is scheduled, **email notifications are automatically sent to the owner and the team**.
 
-==`Flow`==
+### Flow
 - User clicks **Schedule a Meeting** on the homepage
 - User is redirected to the Calendly booking page
 - User selects date & time and submits the form
