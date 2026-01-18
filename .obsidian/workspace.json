@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
-                "mode": "preview",
+                "file": "Development Team/Project Documentation/BridgeFrontendService/Calendly Meeting Integration.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Setup"
+              "title": "Calendly Meeting Integration"
             }
           }
         ]
@@ -197,12 +197,14 @@
   },
   "active": "86d6094893044c63",
   "lastOpenFiles": [
+    "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
+    "Development Team/Project Documentation/BridgeFrontendService/Calendly Meeting Integration.md",
+    "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
+    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "Development Team/Project Documentation/BridgeFrontendService/Commands used.md",
     "Development Team/Notice Board.md",
     "Development Team/Project Documentation/BridgeBackendService/Untitled Kanban.md",
     "Development Team/Project Documentation/BridgeBackendService/Project Setup.md",
-    "Development Team/Project Documentation/BridgeFrontendService/Project Setup.md",
-    "Development Team/Project Documentation/BridgeBackendService/BridgeBackendService.md",
     "Development Team/Project Documentation/BridgeBackendService/API Documenation.md",
     "Development Team/Project Documentation/BridgeBackendService/Commands used.md",
     "Development Team/Project Documentation/BridgeBackendService/API Documentation/API Documentation.md",
@@ -213,7 +215,6 @@
     "Development Team/Project Documentation/BridgeBackendService/API Documentation/Untitled.md",
     "Bridge Solutions Links.md",
     "Untitled Kanban.md",
-    "Development Team/Project Documentation/BridgeFrontendService/BridgeFrontendService.md",
     "conflict-files-obsidian-git.md",
     "Lead Generation Team/Market Research.md",
     "tasks manager.md",
@@ -225,7 +226,6 @@
     "Development Team/Project Documentation/Project Documentation.md",
     "Development Team/Project Documentation/BridgeFrontendApplication.md",
     "README.md",
-    "Bridge Solutions Notice Board.md",
     "Site Engine Optimization Team",
     "Social Media Team",
     "Design Team",
